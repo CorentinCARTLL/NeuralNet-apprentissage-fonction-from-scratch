@@ -1,5 +1,7 @@
-# ia-estimation-fonction-from-scratch
+# IA d'estimation de fonction  
+## (from scratch)
 Actuellement en école d'ingénieur (2ème année de prépa intégrée), je m'intéresse de plus en plus au **dev IA** et à la **compréhension mathématique et logique des réseaux neuronnaux**.  
+  
 J'avais donc pour objectif de créer mon premier réseau neuronnal **sans aucune bibliothèques** autres que numpy et matplotlib (nécessaires pour faire des calculs et les afficher les résultats sous formes de graphiques)  
   
 Ce petit projet m'a pris une après-midi à réaliser, je me suis aidé de plusieurs ressources :  
