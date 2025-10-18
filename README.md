@@ -5,7 +5,7 @@ Actuellement en école d'ingénieur (2ème année de prépa intégrée), je m'in
 J'avais donc pour objectif de créer mon premier réseau neuronnal **sans aucune bibliothèques** autres que numpy et matplotlib (nécessaires pour faire des calculs et les afficher les résultats sous formes de graphiques)  
 
 <p align="center">
-  <img src="img/réseau neuronne.png" alt="Image projet" height="500">
+  <img src="img/réseau_neurones.png" alt="Image projet" height="500">
 </p>
 
 Ce petit projet m'a pris une après-midi à réaliser, je me suis aidé de plusieurs ressources :  
